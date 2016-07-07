@@ -1,0 +1,206 @@
+body {
+	height: 100vh;
+	width: 100%;
+	background-image: url("pic./background.jpg");
+}
+.home {
+	height: 100%;
+	widows: 100%;
+
+
+}
+.hphi a{
+	color: white;
+}
+
+.home h1 {
+
+	margin: center;
+	text-decoration: 800px;
+   color: green;
+
+}
+
+
+
+img {
+
+	border:solid;
+	width: 600px;
+	margin-left: 550px;
+	margin-right: 600px;
+
+
+}
+
+.about_me  {
+ float: left;
+	margin:0 600px px 598px;
+	color: white;
+	font-size: 25px;
+	padding-left: 300px;
+	padding-right: 200px;
+
+}
+.list{
+	color: red;
+	text-decoration: mone;
+	border: solid;
+	text-align: center;
+	background: green;
+}
+
+.home h1{
+
+	text-align: center;
+	font-size: 125px;
+}
+
+h4 {
+
+	color:yellow;
+	font-size: 20px;
+
+
+}
+
+.wrap{
+
+	float: right;
+	width: 350px;
+	height: 45px;
+	margin-right:100px;
+	margin-left: 600px;
+	margin-top: 550px;
+	margin-bottom: 200px;
+	border:solid red;
+	background: gray;
+	padding-bottom: 550px;
+	color:yellow;
+	font-size: 25px;
+}
+#container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	margin-top: 500px;
+	margin-right: 800px;
+	margin-left: 200px;
+	color: white;
+	font-size: 20px;
+
+
+
+
+	/*background-image: url("back.png");
+	border:solid red;
+	float: left;
+	margin-top: 350px;*/
+}
+.name {
+	color: green;
+	text-shadow: white 5px 2px;
+}
+#wrap{
+	color: green;
+
+
+}
+
+
+/*
+	body {
+		background: gray;
+		display:flex;
+		flex-direction: column;
+		margin: 0 0 0 0;
+
+	}
+	#main{
+		display: flex;
+		flex-direction: row;
+		flex-grow: 25;
+
+	}
+
+	header{
+		display:flex;
+		flex-direction: row;
+		background: blue;
+		flex-grow:25;
+		height: 10vh;
+	}
+	section{
+		background: yellow;
+		flex-grow:-1;
+		height: 50vh;
+		margin-top: 10px;
+	}
+	nav{
+
+		flex-grow: 8;
+		height: 50vh;
+
+
+	}
+	nav img{
+		width:800px;
+
+
+	}
+	aside{
+		background: red;
+		flex-grow: 25;
+		height: 80vh;
+	}
+	footer{
+		flex-grow:25;
+		height: 80vh;
+
+
+	}
+	.youtube{
+		background: white;
+		width:100px;
+		height:100px;
+		margin-bottom: 15px;
+	}
+	.menu{
+		background:white;
+		margin-left:px;
+		width:1900px;
+
+	}
+	/*.header{background:yellow;
+		display:flex;
+		flex-direction:row;
+	flex-grow: 50px
+	margin-top:0 0 0 50px;
+	*/
+
+}
+	/*.side{
+		background:blue;
+		display:flex;
+		flex-direction:column;
+	flex-grow: 50px
+	margin-top:0 0 0 50px;
+
+
+	}
+	.otherside{
+		display:flex;
+		flex-direction:column;
+		background:red;
+		flex-grow: 50px
+
+	}
+	footer{
+		display:flex;
+		flex-direction:row;
+		background:red;
+		flex-grow: 50px*/
+	}
+
+	*/
